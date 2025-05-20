@@ -1,15 +1,13 @@
-
-/* Your CSS Code here. */
 .holder {
     width: 100vw; /* Full viewport width */
     height: 100vh; /* Full viewport height */
-    display: flex; /* Enable flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
+    display: flex; /* Flexbox enable karna */
+    justify-content: center; /* Horizontal center */
+    align-items: center; /* Vertical center */
 }
 
 .item-1 {
-    width: 100px; /* Set width of item-1 */
-    height: 100px; /* Set height of item-1 */
-    background-color: red; /* Set background color of item-1 */
+    width: 100px; /* Item-1 ki width */
+    height: 100px; /* Item-1 ki height */
+    background-color: red; /* Item-1 ka background color */
 }
